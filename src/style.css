@@ -60,4 +60,9 @@
     color: #666666;
 }
 
-
+.right-container {
+    width: 75%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
