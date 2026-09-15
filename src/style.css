@@ -82,3 +82,33 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+.hero {
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+
+.hero-texto {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 50px;
+
+    background-color: var(--panel);
+}
+
+.hero-texto h1 {
+    color: var(--dorado);
+    font-size: 42px;
+}
+
+.hero-texto p {
+    margin-top: 25px;
+
+    color: var(--texto-secundario);
+    font-size: 18px;
+}
