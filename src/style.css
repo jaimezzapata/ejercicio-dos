@@ -11,7 +11,7 @@ body {
     font-family: Georgia, 'Times New Roman', serif;
     color: #FFFFFF;
 }
-
+/* ===== SIDEBAR ===== */
 .sidebar {
     width: 25%;
     height: 100%;
@@ -69,6 +69,7 @@ body {
     flex-direction: column;
     background-color: #222222;
 }
+/* ===== HERO ===== */
 
 .hero {
     width: 100%;
@@ -108,6 +109,7 @@ body {
     object-fit: cover;
     display: block;
 }
+/* ===== FEATURES ===== */
 .features {
     width: 100%;
     height: 40%;
@@ -153,6 +155,7 @@ body {
     font-family: Arial, sans-serif;
     font-size: 13px;
 }
+/* ===== FOOTER ===== */
 
 .footer p {
     color: #9CA3AF;
