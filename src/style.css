@@ -62,3 +62,31 @@ body {
     padding-top: 16px;
     font-family: Arial, sans-serif;
 }
+.contenido {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    background-color: #222222;
+}
+
+.hero {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+}
+
+.hero-texto {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 60px;
+}
+
+.hero-imagen {
+    width: 60%;
+    height: 100%;
+}
