@@ -68,3 +68,10 @@ body {
     color: var(--texto-secundario);
     font-size: 13px;
 }
+
+.columna-derecha {
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
