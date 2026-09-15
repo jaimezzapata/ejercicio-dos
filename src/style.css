@@ -1,0 +1,23 @@
+.body-wrapper {
+    margin: 0;
+    padding: 0;
+    background-color: #0f0f0f;
+    color: #e5e5e5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.sidebar {
+    width: 25%;
+    height: 100vh;
+    background-color: #0b0b0b;
+    border-right: 1px solid #1f1f1f;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px 30px;
+    box-sizing: border-box;
+}
