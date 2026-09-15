@@ -187,3 +187,10 @@ body {
 .feature-box p {
     line-height: 1.6;
 }
+.feature-box {
+    transition: transform 0.2s ease;
+}
+
+.feature-box:hover {
+    transform: translateY(-4px);
+}
