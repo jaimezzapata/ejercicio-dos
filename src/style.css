@@ -37,3 +37,9 @@ body {
     font-size: 42px;
     font-weight: bold;
 }
+
+.subtitulo {
+    margin-top: 10px;
+    color: var(--texto-secundario);
+    font-size: 14px;
+}
