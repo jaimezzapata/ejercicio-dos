@@ -171,3 +171,8 @@ body {
     font-size: 12px;
     letter-spacing: 0.5px;
 }
+.nav-sidebar a:hover,
+.footer-links a:hover {
+    color: #D4AF37;
+    transition: color 0.2s ease;
+}
