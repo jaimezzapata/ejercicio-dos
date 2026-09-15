@@ -31,3 +31,9 @@ body {
     background-color: var(--fondo);
     border-right: 1px solid var(--borde);
 }
+
+.logo {
+    color: var(--dorado);
+    font-size: 42px;
+    font-weight: bold;
+}
