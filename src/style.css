@@ -176,3 +176,11 @@ body {
     color: #D4AF37;
     transition: color 0.2s ease;
 }
+.hero-texto p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.feature-box p {
+    line-height: 1.6;
+}
