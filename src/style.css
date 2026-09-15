@@ -7,3 +7,9 @@
     --texto: #E4E4E6;
     --texto-secundario: #999999;
 }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
