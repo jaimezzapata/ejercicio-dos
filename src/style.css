@@ -21,3 +21,43 @@
     padding: 40px 30px;
     box-sizing: border-box;
 }
+
+.brand-title {
+    margin: 0 0 5px 0;
+    color: #d4af37; /* Color dorado */
+    font-size: 2rem;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+.brand-subtitle {
+    margin: 0 0 60px 0;
+    font-size: 0.75rem;
+    color: #888888;
+    letter-spacing: 1px;
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #cccccc;
+    font-size: 0.95rem;
+    font-weight: 400;
+}
+
+.nav-item:hover {
+    color: #d4af37;
+}
+
+.sidebar-address {
+    margin: 0;
+    font-size: 0.8rem;
+    color: #666666;
+}
+
+
