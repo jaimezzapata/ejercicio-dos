@@ -43,3 +43,20 @@ body {
     color: var(--texto-secundario);
     font-size: 14px;
 }
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+    gap: 25px;
+}
+
+.menu a {
+    color: var(--texto);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.menu a:hover {
+    color: var(--dorado);
+}
