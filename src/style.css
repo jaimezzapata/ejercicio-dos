@@ -3,3 +3,28 @@
     margin: 0;
     padding: 0;
 }
+body {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #FFFFFF;
+}
+
+.sidebar {
+    width: 25%;
+    height: 100%;
+    background-color: #111111;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.columna-derecha {
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
