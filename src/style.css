@@ -58,3 +58,46 @@ body{
     display: felx;
     flex-direction: column;
 }
+.contenido-principal {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+}
+.seccion-principal {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #222222;
+}
+.texto-principal {
+    width: 40%;
+    height: 100%;
+    background-color: #181818;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid #222222;
+
+}
+.texto-principal h2 {
+    color: #D4AF37;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.texto-principal p {
+    color: #9CA3AF;
+    font-size: 14PX;
+
+}
+.imagen-principal {
+    width: 60%;
+    height: 100%;
+}
+.imagen-principal img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
