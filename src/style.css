@@ -52,3 +52,9 @@ body{
     color: #9CA3AF;
     font-size: 12px;
 }
+.contenedor-derecho {
+    width: 75%;
+    height: 100%;
+    display: felx;
+    flex-direction: column;
+}
