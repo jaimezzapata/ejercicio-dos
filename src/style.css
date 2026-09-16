@@ -23,3 +23,32 @@ body{
     flex-direction: column;
     justify-content: space-between;
 }
+.logo h1{
+    color: #D4AF37;
+    font-size: 24px;
+
+
+}
+.logo p{
+    color: #9CA3AF;
+    font-size: 11px;
+
+}
+.navegacion ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.navegacion a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.navegacion a:hover {
+    color: #D4AF37;
+
+}
+.info-contacto p {
+    color: #9CA3AF;
+    font-size: 12px;
+}
